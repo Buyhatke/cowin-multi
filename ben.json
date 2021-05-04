@@ -1,0 +1,77 @@
+[
+  {
+    "beneficiary_reference_id": "99338884170320",
+    "name": "Srikanth Sethumadhavan",
+    "birth_year": "1991",
+    "gender": "Male",
+    "mobile_number": "3702",
+    "photo_id_type": "PAN Card",
+    "photo_id_number": "FBBPS8369P",
+    "comorbidity_ind": "N",
+    "vaccination_status": "Not Vaccinated",
+    "vaccine": "COVAXIN",
+    "dose1_date": "",
+    "dose2_date": "",
+    "appointments": []
+  },
+  {
+    "beneficiary_reference_id": "91363406463870",
+    "name": "Pemmanaboyidi Jayaram ",
+    "birth_year": "1992",
+    "gender": "Male",
+    "mobile_number": "3702",
+    "photo_id_type": "PAN Card",
+    "photo_id_number": "CDOPP6591A",
+    "comorbidity_ind": "N",
+    "vaccination_status": "Not Vaccinated",
+    "vaccine": "COVAXIN",
+    "dose1_date": "",
+    "dose2_date": "",
+    "appointments": []
+  },
+  {
+    "beneficiary_reference_id": "69762090095910",
+    "name": "Prashant Kumar Singh",
+    "birth_year": "1992",
+    "gender": "Male",
+    "mobile_number": "3702",
+    "photo_id_type": "PAN Card",
+    "photo_id_number": "DVZPS5081Q",
+    "comorbidity_ind": "N",
+    "vaccination_status": "Not Vaccinated",
+    "vaccine": "COVISHIELD",
+    "dose1_date": "",
+    "dose2_date": "",
+    "appointments": [
+      {
+        "appointment_id": "431a3323-c53f-4f58-864b-ed8f204f371d",
+        "center_id": 583010,
+        "name": "APOLLO CRADLE HOSPITAL",
+        "state_name": "Karnataka",
+        "district_name": "BBMP",
+        "block_name": "South",
+        "from": "09:00",
+        "to": "17:00",
+        "dose": 1,
+        "session_id": "30b48ca1-f6c8-4ec5-910c-6abb6d8d20e8",
+        "date": "05-05-2021",
+        "slot": "09:00AM-11:00AM"
+      }
+    ]
+  },
+  {
+    "beneficiary_reference_id": "60398883066190",
+    "name": "Patneedi Vijay Kumar",
+    "birth_year": "1995",
+    "gender": "Male",
+    "mobile_number": "3702",
+    "photo_id_type": "PAN Card",
+    "photo_id_number": "CPLPP9255A",
+    "comorbidity_ind": "N",
+    "vaccination_status": "Not Vaccinated",
+    "vaccine": "",
+    "dose1_date": "",
+    "dose2_date": "",
+    "appointments": []
+  }
+]

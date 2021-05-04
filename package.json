@@ -1,0 +1,26 @@
+{
+  "name": "cowin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umanghome/cowin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umanghome/cowin/issues"
+  },
+  "homepage": "https://github.com/umanghome/cowin#readme",
+  "dependencies": {
+    "fastify": "^3.15.1",
+    "fastify-cors": "^6.0.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^9.0.0"
+  }
+}

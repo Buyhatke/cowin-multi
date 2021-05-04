@@ -1,0 +1,29 @@
+{
+  "name_list": [
+    "Srikanth",
+    "Jayaram"
+  ],
+  "phone": "9686833702",
+  "age": 30,
+  "covaxin": true,
+  "cowin": {
+    "search": "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=294&date=05-05-2021",
+    "reschedule": "https://cdn-api.co-vin.in/api/v2/appointment/reschedule",
+    "schedule": "https://cdn-api.co-vin.in/api/v2/appointment/schedule"
+  },
+  "auth": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiI1ZDBmZDk2Yi1kN2JkLTQyMzItYWIzNi1hMDg2MGI0Y2QxM2EiLCJ1c2VyX2lkIjoiNWQwZmQ5NmItZDdiZC00MjMyLWFiMzYtYTA4NjBiNGNkMTNhIiwidXNlcl90eXBlIjoiQkVORUZJQ0lBUlkiLCJtb2JpbGVfbnVtYmVyIjo5Njg2ODMzNzAyLCJiZW5lZmljaWFyeV9yZWZlcmVuY2VfaWQiOjk5MzM4ODg0MTcwMzIwLCJ1YSI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NjkuMCBTYWZhcmkvNTM3LjM2IiwiZGF0ZV9tb2RpZmllZCI6IjIwMjEtMDUtMDRUMjE6MDU6MDEuMjQyWiIsImlhdCI6MTYyMDE2MjMwMSwiZXhwIjoxNjIwMTYzMjAxfQ.ftTnQjZxbCjuNFkF80fzx7Epn6TfJleDh2nmywcMMxk",
+  "webhook": "",
+  "verbose": true,
+  "sleep": 5000,
+  "appointment_id": "",
+  "sec_beneficiary_id": "91363406463870",
+  "beneficiary_reference_id": "99338884170320",
+  "beneficiary_list": [
+    "99338884170320",
+    "91363406463870",
+    "69762090095910"
+  ],
+  "appointment_list": [
+    "431a3323-c53f-4f58-864b-ed8f204f371d"
+  ]
+}
