@@ -14,7 +14,7 @@ Things you'll need to have before you get this running:
 ### Code
 
 1. Clone this repo or download ZIP. If you are downloading the ZIP, extract it.
-   ![Clone this repo](https://i.imgur.com/PwaCLAn.png)
+   ![Clone this repo](https://i.imgur.com/iPRyelU.png)
 
 ### Google Messages
 
