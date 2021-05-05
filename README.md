@@ -26,9 +26,10 @@ Things you'll need to have before you get this running:
 
 1. While still on the Google Messages conversation page, open Tampermonkey extension and click on "Create a new script..."
    ![Tampermonkey](https://i.imgur.com/WnJDdaN.png)
-1. On the Tampermonkey page that just opened, replace the existing code with the one in `tampermonkey.js` file from this repo
-1. On line 7 in the code set replace https://messages.google.com/web/conversations/617 URL with the URL of conversation with OTPs in your Google Messages Web. The number "617" would be changed by something else.
-1. Refresh Google Messages Web page
+2. On the Tampermonkey page that just opened, replace the existing code with the one in `tampermonkey.js` file from this repo
+3. On line 7 in the code set replace https://messages.google.com/web/conversations/617 URL with the URL of conversation with OTPs in your Google Messages Web. The number "617" would be changed by something else.
+4. Click File and Save the code.
+5. Refresh Google Messages Web page
 
 ### Config
 
