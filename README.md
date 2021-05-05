@@ -33,9 +33,9 @@ Things you'll need to have before you get this running:
 ### Config
 
 1. Open `config.json` file
-1. Set the name as the exact name you have set in CoWIN
+1. Set the name_list as the list of all the names you want to schedule for. All names must belong to same mobile login on CoWIN
 1. Set your phone number
-1. Set your age
+1. Set your age (Code assumes that all names provided are in same age group)
 1. Set whether or not you want Covaxin. (true/false)
 1. On line 7, set the "search" URL. Watch this video to learn how to get this URL: https://youtu.be/a-nJBLbIdTw
 
