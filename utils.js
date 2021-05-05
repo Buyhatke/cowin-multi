@@ -91,6 +91,7 @@ function _fetch(url, opts = {}) {
       'sec-fetch-dest': 'empty',
       'sec-fetch-mode': 'cors',
       'sec-fetch-site': 'cross-site',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36',
       ...headers,
     },
     referrer: 'https://selfregistration.cowin.gov.in/',
